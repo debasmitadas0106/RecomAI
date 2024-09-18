@@ -21,7 +21,7 @@ function Header() {
       <div className="collapse navbar-collapse" id="navbarNav">
         <ul className="navbar-nav">
           <li className="nav-item active">
-            <a className="nav-link text-light" href="codelingual.netlify.app">
+            <a className="nav-link text-light" href="https://codelingual.netlify.app/">
               Home <span className="sr-only"></span>
             </a>
           </li>
