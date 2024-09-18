@@ -5,7 +5,7 @@ function Header() {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-bs-tertiary-color">
       <a className="navbar-brand text-light ps-3" href="codelingual.netlify.app">
-        FlickerNode
+        Flicker
       </a>
       <button
         className="navbar-toggler"
